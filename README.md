@@ -24,6 +24,10 @@ Resources I will be using for my learning journey will be listed here.I will upd
 
 Tools I will be using for my learning journey will be listed here.
 
+OS I used for my learning journey:
+
+* Windows 10 Home
+
 /* To be added */
 
 ## Credits
