@@ -69,6 +69,4 @@ docker run -d -p 80:80 <image_name>
 docker push <image_name>
 ```
 
-
-
-
+Date of Learning: 07/01/2024

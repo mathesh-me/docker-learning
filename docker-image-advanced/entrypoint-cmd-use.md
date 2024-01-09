@@ -66,3 +66,5 @@ docker run ubuntu
 - Entrypoint will append the command `docker run ubuntu` to the command line arguments `ENTRYPOINT ["sleep"]` and then execute the command.
 - CMD is used to provide default arguments for the entrypoint.
 - CMD can be overridden by providing arguments to the docker run command.
+
+Date of Learning: 07/01/2024
