@@ -16,12 +16,11 @@ I will Update this Table of Contents as I learn new things.
 |6 | [License](#license) |
 
 
-
 ## Projects Section
 
 During my learning journey, I will be working on a few projects. These projects will be listed here.I will do 5 projects for evry tools I learn.That 5 Projects will be listed here.I wil update this section as I do more new projects.
 
-/* To be added */
+
 
 ## Resources
 
@@ -36,8 +35,8 @@ Tools I will be using for my learning journey will be listed here.
 OS I used for my learning journey:
 
 * Windows 10 Home
+* Docker Desktop for Windows
 
-/* To be added */
 
 ## Credits
 
