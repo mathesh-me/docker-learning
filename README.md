@@ -6,7 +6,7 @@ Welcome to my Docker learning documentation repository! This repository is a pla
 
 I will Update this Table of Contents as I learn new things.
 
-/* To be added */
+
 
 ## Projects Section
 
@@ -18,7 +18,7 @@ During my learning journey, I will be working on a few projects. These projects 
 
 Resources I will be using for my learning journey will be listed here.I will update this section as I find more resources.
 
-/* To be added */
+- Docker for Beginners: Full Free Course on Udemy by freeCodeCamp.org: https://www.youtube.com/watch?v=3c-iBn73dDE
 
 ## Tools
 
