@@ -20,6 +20,13 @@ I will Update this Table of Contents as I learn new things.
 
 During my learning journey, I will be working on a few projects. These projects will be listed here.I will do 5 projects for evry tools I learn.That 5 Projects will be listed here.I wil update this section as I do more new projects.
 
+| No. | Project Name | 
+| --- | ------------ | 
+|1 | [Docker Project 1] |
+|2 | [Docker Project 2] |
+|3 | [Docker Project 3] |
+|4 | [Docker Project 4] |
+|5 | [Docker Project 5] |
 
 
 ## Resources
@@ -36,7 +43,7 @@ OS I used for my learning journey:
 
 * Windows 10 Home
 * Docker Desktop for Windows
-
+* In case, If you wnat Ubuntu use AWS.
 
 ## Credits
 
