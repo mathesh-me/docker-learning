@@ -44,6 +44,7 @@ OS I used for my learning journey:
 * Windows 10 Home
 * Docker Desktop for Windows
 * In case, If you wnat Ubuntu use AWS.
+* Ubuntu 20.04 LTS
 
 ## Credits
 
