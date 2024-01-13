@@ -48,12 +48,9 @@ OS I used for my learning journey:
 
 ## Credits
 
-/* To be added */
+- Udemy
+- freeCodeCamp.org
 
 ## License
 
 This repository is licensed under the MIT license. See `LICENSE` for details.
-
-
-
-
