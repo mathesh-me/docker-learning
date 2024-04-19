@@ -7,14 +7,15 @@ Welcome to my Docker learning documentation repository! This repository is a pla
 
 ## Table of Contents
 
-| No. | Topics |
-| --- | ------ |
-|1 | [Introduction](#docker-learning-repository) |
-|2 | [Projects Section](#projects-section) |
-|3 | [Resources Used](#resources-used) |
-|4 | [Tools Used](#tools-used) |
-|6 | [License](#license) |
-|7 | [Contributions](#contributions) |
+## Table of Contents
+
+- [Docker Learning Repository](#docker-learning-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Projects Section](#projects-section)
+  - [Resources Used](#resources-used)
+  - [Tools Used](#tools-used)
+  - [License](#license)
+  - [Contribution](#contribution)
 
 
 ## Projects Section
@@ -36,7 +37,7 @@ Resources I will be using for my learning journey will be listed here.I will upd
 - [Docker for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [Complete Docker Course by DevOps Directive](https://youtu.be/RqTEHSBrYFw?si=1ilFPwteV4pKPfS_)
 
-## Tools
+## Tools Used
 
 Tools I will be using for my learning journey will be listed here.
 
@@ -48,6 +49,6 @@ Tools I will be using for my learning journey will be listed here.
 
 This repository is licensed under the MIT license. See `LICENSE` for details.
 
-## Contributions
+## Contribution
 
 Contributions are always welcome! Please create a pull request to contribute to this repository.
