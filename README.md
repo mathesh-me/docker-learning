@@ -41,9 +41,9 @@ Resources I will be using for my learning journey will be listed here.I will upd
 
 Tools I will be using for my learning journey will be listed here.
 
-* Windows 10 Home
-* Docker Desktop for Windows
-* In case If you want to use Linux, You can use VM offered by Cloud Providers like AWS, GCP, Azure or you can use VirtualBox or VMware Workstation to create a VM on your local machine.
+* **Windows 11 Home**
+* **Docker Desktop** for Windows
+* In case If you want to use Linux, You can use **VM offered by Cloud Providers like AWS, GCP, Azure** or you can use VirtualBox or VMware Workstation to create a VM on your local machine.
 
 ## License
 
@@ -51,4 +51,4 @@ This repository is licensed under the MIT license. See `LICENSE` for details.
 
 ## Contribution
 
-Contributions are always welcome! Please create a pull request to contribute to this repository.
+**Contributions are always welcome!** Please create a pull request to contribute to this repository. I tried to keep the documentation simple and easy to understand. If you have any suggestions or improvements, please feel free to contribute.
