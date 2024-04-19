@@ -2,6 +2,9 @@
 
 Welcome to my Docker learning documentation repository! This repository is a place where I document my journey of learning. Here, you will find my files, resources, and insights I've gathered along the way.
 
+![docker-logo-blue](https://github.com/mathesh-me/docker-learning/assets/144098846/9e9dfd14-e6a0-41de-95a3-364ea38372b6)
+
+
 ## Table of Contents
 
 I will Update this Table of Contents as I learn new things.
